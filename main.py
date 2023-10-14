@@ -20,11 +20,11 @@ def generate():
         if (choice == 1):
 
 
-            characterList += string.ascii_letters
+            characterList += string.digits        
         elif (choice == 2):
 
 
-            characterList += string.digits
+            characterList += string.ascii_letters
         elif (choice == 3):
 
 
